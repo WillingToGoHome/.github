@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">  
-  <img src="https://i.ibb.co/kGz5Xzf/image.png" alt="image" border="0">
+  
 </div>
 <br>
 <div align="center">
