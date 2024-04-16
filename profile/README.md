@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">  
-<!--   <img src="https://i.ibb.co/1G2WbsG/2.png" alt="2" border="0"> -->
+  <img src="https://i.ibb.co/kGz5Xzf/image.png" alt="image" border="0">
 </div>
 <br>
 <div align="center">
@@ -23,10 +23,12 @@
       <td><img src="https://i.ibb.co/KFvWRzJ/image.png" alt="image" border="0"></td> -->
     </tr>
     <tr colspan="2">
-<!--       <td></td>
-      <td></td>
-      <td></td>
-      <td></td> -->
+      <td>권순상</td>
+      <td>김진용</td>
+      <td>구예성</td>
+      <td>이민국</td>
+      <td>윤수빈</td>
+      <td>김만호</td>
     </tr>
   </table>
 </div>
