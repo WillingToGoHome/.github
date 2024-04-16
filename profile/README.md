@@ -17,18 +17,17 @@
 <div align="center">
   <table>
     <tr>
-<!--       <td><img src="https://i.ibb.co/YQfp1x9/image.png" alt="image" border="0"></td>
-      <td><img src="https://i.ibb.co/zhx0BD8/image.png" alt="image" border="0"></td>
-      <td><img src="https://i.ibb.co/g9mS2t3/image.png" alt="image" border="0"></td>
-      <td><img src="https://i.ibb.co/KFvWRzJ/image.png" alt="image" border="0"></td> -->
+      <td align="center"><strong>프로젝트관리자</strong></td>
+      <td align="center"><strong>형상관리자</strong></td>
+      <td colspan="4" align="center"><strong>데이터베이스관리자</strong></td>
     </tr>
     <tr colspan="2">
-      <td>권순상</td>
-      <td>김진용</td>
-      <td>구예성</td>
-      <td>이민국</td>
-      <td>윤수빈</td>
-      <td>김만호</td>
+      <td align="center">권순상</td>
+      <td align="center">김진용</td>
+      <td align="center">구예성</td>
+      <td align="center">이민국</td>
+      <td align="center">윤수빈</td>
+      <td align="center">김만호</td>
     </tr>
   </table>
 </div>
